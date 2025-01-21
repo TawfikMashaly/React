@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Javascript Book",
+      "price": 1000,
+      "author": "Tawfik",
+      "description": "Welcome To Javascript World !"
+    },
+    {
+      "id": "2",
+      "title": "React 8.2 Book",
+      "price": 2000,
+      "author": "Kiro",
+      "description": "Welcome To React JS !"
+    },
+    {
+      "title": "Php ",
+      "price": "800",
+      "author": "Mina",
+      "description": "Hello",
+      "id": "3"
+    },
+    {
+      "title": "Angular ",
+      "price": "2500",
+      "author": "Tawfik Mashaly",
+      "description": "Hello World !",
+      "id": "4"
+    }
+  ]
+}
